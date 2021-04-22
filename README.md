@@ -1,2 +1,2 @@
 # github_data
- Visualizing Github Data from BigQuery's Public Data
+Using SQL to explore Github Data from BigQuery's Public Data
